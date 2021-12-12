@@ -4,9 +4,14 @@ text-align : centre;
 padding : 20px;
 }
 
-c{
-  color:purple;
+t{
+  color:green;
   text-align:auto;
-  padding:40px;
+  padding:10px;
   
+}
+a {
+  color:orange;
+  text-align:auto;
+  padding:30px;
 }
